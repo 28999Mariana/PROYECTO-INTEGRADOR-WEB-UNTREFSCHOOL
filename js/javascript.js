@@ -17,3 +17,4 @@ window.addEventListener('click', function(e){
         modal.style.display = 'none';
     }
 });
+
